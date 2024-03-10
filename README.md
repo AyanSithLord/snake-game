@@ -1,2 +1,2 @@
 # snake-game
-Classic snake game using python turtleArrow Keys To Move. 
+Classic snake game using python turtle. Arrow Keys To Move. 
